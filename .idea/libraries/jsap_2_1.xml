@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jsap-2.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PacMan-vs-Ghosts-Tournament/lib/jsap-2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

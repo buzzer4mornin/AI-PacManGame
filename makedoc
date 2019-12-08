@@ -1,0 +1,5 @@
+javadoc -d html \
+        -sourcepath 'PacMan-vs-Ghosts/src:PacMan-vs-Ghosts-Agents/src:PacMan-vs-Ghosts-Tournament/src' \
+        -classpath 'PacMan-vs-Ghosts-Tournament/lib/*' \
+        -subpackages 'cz:game:tools' \
+        PacMan-vs-Ghosts-Agents/src/MyPacMan.java

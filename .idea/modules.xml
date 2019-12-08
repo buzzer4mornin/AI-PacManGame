@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PacMan-vs-Ghosts/PacMan-vs-Ghosts.iml" filepath="$PROJECT_DIR$/PacMan-vs-Ghosts/PacMan-vs-Ghosts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PacMan-vs-Ghosts-Agents/PacMan-vs-Ghosts-Agents.iml" filepath="$PROJECT_DIR$/PacMan-vs-Ghosts-Agents/PacMan-vs-Ghosts-Agents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PacMan-vs-Ghosts-Tournament/PacMan-vs-Ghosts-Tournament.iml" filepath="$PROJECT_DIR$/PacMan-vs-Ghosts-Tournament/PacMan-vs-Ghosts-Tournament.iml" />
+    </modules>
+  </component>
+</project>
