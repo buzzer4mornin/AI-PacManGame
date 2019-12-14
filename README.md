@@ -1,3 +1,6 @@
+NOTE: To see my code implementation, check files on AI-PacManGame/PacMan-vs-Ghosts-Agents/src/... I implemented UCS(Uniform Cost Search) algorithm.
+Check Project Webpage : https://ksvi.mff.cuni.cz/~dingle/2019/ai/ms_pacman/ms_pacman.html
+Award: 2nd place with avg score = 18,762
 # Ms. Pac-Man vs. Ghosts Version 2.2.0
 
 ![screenshot](mspac.png)
