@@ -24,7 +24,7 @@ The more recent [Ms. Pac-Man Vs. Ghost Team Competition](http://www.pacmanvghost
 
 This version of Ms. Pac-Man vs. Ghosts works with Java 11, 12, or 13, and probably older Java versions as well.
 
-The sources include .project files for Eclipse.  You should easily be able to load them into Eclipse, IntelliJ, or Visual Studio Code, all of which understand the Eclipse .project file format.
+The sources include.project files for Eclipse.You should easily be able to load them into Eclipse, IntelliJ, or Visual Studio Code, all of which understand the Eclipse .project file format.
 
 ## Playing the game
 
