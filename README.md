@@ -40,11 +40,7 @@ You can enhance the [MyPacMan](https://ksvi.mff.cuni.cz/~dingle/2019/ai/ms_pacma
 
 The [Game](https://ksvi.mff.cuni.cz/~dingle/2019/ai/ms_pacman/html/game/core/Game.html) interface has everything you need to find about the game state. Note that
 
-- The maze is represented as a graph of __nodes__.  Each node is a distinct position in the maze and has a unique integer index.  There are about 1,000 nodes in each maze (the exact number varies from level to level) and they are evenly spaced throughout the maze.
-- Each pill in the maze has a unique index.
-- Ghosts are numbered from 0 to 3.
-- Directions are listed at the top of interface Game (UP=0, RIGHT=1, etc.)
-- The game normally runs at 25 ticks per second.
+
 
 Here are some of the most important Game methods:
 
