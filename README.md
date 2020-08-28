@@ -1,4 +1,4 @@
-**NOTE: To see my code implementation, check files on AI-PacManGame/PacMan-vs-Ghosts-Agents/src/...**
+**To see my code implementation, check files on AI-PacManGame/PacMan-vs-Ghosts-Agents/src/...**
 
 **I implemented UCS(Uniform Cost Search) algorithm.**
 
