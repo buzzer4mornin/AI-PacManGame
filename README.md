@@ -2,7 +2,7 @@
 
 **I implemented UCS(Uniform Cost Search) algorithm.**
 
-**My implementation won 2nd  place among 64 students in Artificial Intelligence tournament with avg score ~18,762**
+**My implementation won 2nd place among 64 participants in Artificial Intelligence tournament with avg score ~18,762**
 
 # Ms. Pac-Man vs. Ghosts Version 2.2.0
 
