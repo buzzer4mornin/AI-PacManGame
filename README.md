@@ -2,9 +2,7 @@
 
 **I implemented UCS(Uniform Cost Search) algorithm.**
 
-**Check Project Webpage : https://ksvi.mff.cuni.cz/~dingle/2019/ai/ms_pacman/ms_pacman.html**
-
-**Award: 2nd place among 26 students in Tournament, with avg score = 18,762**
+**Avg score = 18,762**
 
 # Ms. Pac-Man vs. Ghosts Version 2.2.0
 
